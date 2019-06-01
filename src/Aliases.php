@@ -66,7 +66,7 @@ class Aliases {
 			[ 'Kirki\Modules\Field_Dependencies\Module', 'Kirki_Modules_Field_Dependencies' ],
 			[ 'Kirki\Modules\Editor_Styles\Module', 'Kirki_Modules_Gutenberg' ],
 			[ 'Kirki\Modules\Selective_Refresh\Module', 'Kirki_Modules_Selective_Refresh' ],
-			[ 'Kirki\Modules\Webfont_Loader\Module', 'Kirki_Modules_Webfont_Loader' ],
+			[ 'Kirki\Module\Webfont_Loader', 'Kirki_Modules_Webfont_Loader' ],
 			[ 'Kirki\Modules\Postmessage\Module', 'Kirki_Modules_Postmessage' ],
 			[ 'Kirki\Modules\Section_Icons\Module', 'Kirki_Modules_Icons' ],
 			[ 'Kirki\Field\Background', 'Kirki_Field_Background' ],
