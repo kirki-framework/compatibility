@@ -58,7 +58,7 @@ class Aliases {
 			[ 'Kirki\Modules\Loading\Module', 'Kirki_Modules_Loading' ],
 			[ 'Kirki\Modules\Preset\Module', 'Kirki_Modules_Preset' ],
 			[ 'Kirki\Module\Tooltips', 'Kirki_Modules_Tooltips' ],
-			[ 'Kirki\Modules\Webfonts\Module', 'Kirki_Modules_Webfonts' ],
+			[ 'Kirki\Module\Webfonts', 'Kirki_Modules_Webfonts' ],
 			[ 'Kirki\Modules\Webfonts\Google', 'Kirki_Fonts_Google' ],
 			[ 'Kirki\Modules\Webfonts\Fonts', 'Kirki_Fonts' ],
 			[ 'Kirki\Modules\Webfonts\Embed', 'Kirki_Modules_Webfonts_Embed' ],
