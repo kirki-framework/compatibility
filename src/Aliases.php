@@ -55,7 +55,7 @@ class Aliases {
 			[ 'Kirki\Modules\CSS\Field\Typography', 'Kirki_Output_Field_Typography' ],
 			[ 'Kirki\Module\CSS_Vars', 'Kirki_Modules_CSS_Vars' ],
 			[ 'Kirki\Module\Custom_Sections', 'Kirki_Modules_Custom_Sections' ],
-			[ 'Kirki\Modules\Loading\Module', 'Kirki_Modules_Loading' ],
+			[ 'Kirki\Module\Loading', 'Kirki_Modules_Loading' ],
 			[ 'Kirki\Module\Preset', 'Kirki_Modules_Preset' ],
 			[ 'Kirki\Module\Tooltips', 'Kirki_Modules_Tooltips' ],
 			[ 'Kirki\Module\Webfonts', 'Kirki_Modules_Webfonts' ],
