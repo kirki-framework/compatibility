@@ -10,9 +10,8 @@ if ( ! function_exists( 'kirki_get_option' ) ) {
 	/**
 	 * Get the value of a field.
 	 * This is a deprecated function that we used when there was no API.
-	 * Please use get_theme_mod() or get_option() instead.
-	 * @see https://developer.wordpress.org/reference/functions/get_theme_mod/
-	 * @see https://developer.wordpress.org/reference/functions/get_option/
+	 * Please use the Kirki::get_option() method instead.
+	 * Documentation is available for the new method on https://github.com/aristath/kirki/wiki/Getting-the-values
 	 *
 	 * @return mixed
 	 */
