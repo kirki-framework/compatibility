@@ -114,7 +114,7 @@ class Aliases {
 			[ 'Kirki\Control\Checkbox', 'Kirki_Control_Checkbox' ],
 			[ 'Kirki\Control\Checkbox_Switch', 'Kirki_Control_Switch' ],
 			[ 'Kirki\Control\Checkbox_Toggle', 'Kirki_Control_Toggle' ],
-			[ 'Kirki\Control\Code', 'Kirki_Control_Code' ],
+			[ '\WP_Customize_Code_Editor_Control', '\Kirki\Control\Code' ],
 			[ 'Kirki\Control\Color', 'Kirki_Control_Color' ],
 			[ 'Kirki\Control\Color_Palette', 'Kirki_Control_Color_Palette' ],
 			[ 'Kirki\Control\Cropped_Image', 'Kirki_Control_Cropped_Image' ],
