@@ -12,7 +12,7 @@
 
 namespace Kirki\Compatibility;
 
-use Kirki\Core\Kirki;
+use Kirki\Compatibility\Kirki;
 
 /**
  * Please do not use this class directly.
