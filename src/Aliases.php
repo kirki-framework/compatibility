@@ -29,13 +29,13 @@ class Aliases {
 	private $aliases = [
 		'generic'    => [
 			[ 'Kirki\Core\Kirki', 'Kirki' ],
-			[ 'Kirki\Core\Config', 'Kirki_Config' ],
+			[ 'Kirki\Compatibility\Config', 'Kirki_Config' ],
 			[ 'Kirki\Core\Control', 'Kirki_Control' ],
 			[ 'Kirki\Compatibility\Field', 'Kirki_Field' ],
 			[ 'Kirki\Core\Helper', 'Kirki_Helper' ],
 			[ 'Kirki\Core\Init', 'Kirki_Init' ],
 			[ 'Kirki\Core\L10n', 'Kirki_L10n' ],
-			[ 'Kirki\Core\Modules', 'Kirki_Modules' ],
+			[ 'Kirki\Compatibility\Modules', 'Kirki_Modules' ],
 			[ 'Kirki\Core\Panel', 'Kirki_Panel' ],
 			[ 'Kirki\Core\Sanitize_Values', 'Kirki_Sanitize_Values' ],
 			[ 'Kirki\Core\Section', 'Kirki_Section' ],
