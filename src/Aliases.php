@@ -38,7 +38,6 @@ class Aliases {
 			[ 'Kirki\Compatibility\Modules', 'Kirki_Modules' ],
 			[ 'Kirki\Compatibility\Sanitize_Values', 'Kirki_Sanitize_Values' ],
 			[ 'Kirki\Compatibility\Section', 'Kirki_Section' ],
-			[ 'Kirki\Compatibility\Sections', 'Kirki_Sections' ],
 			[ 'Kirki\Compatibility\Values', 'Kirki_Values' ],
 			[ 'Kirki\Core\Util', 'Kirki_Util' ],
 			[ 'Kirki\Compatibility\Framework', 'Kirki_Toolkit' ],
