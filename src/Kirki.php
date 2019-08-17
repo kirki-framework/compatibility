@@ -183,6 +183,7 @@ class Kirki extends Init {
 		$args = wp_parse_args( $args, $config );
 
 		if ( class_exists( $classname ) ) {
+			self::$fields[] = $args;
 			new $classname( $args );
 			return;
 		}
